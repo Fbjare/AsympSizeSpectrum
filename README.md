@@ -1,2 +1,2 @@
 # AsympSizeSpectrum
-A test package. Analyzes fisheries landings data according to asymptotic size of individuals
+A test package. (Will) analyze fisheries landings data according to asymptotic size of individuals
