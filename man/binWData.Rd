@@ -15,7 +15,7 @@ dataframe
 \description{
   Logarithmic binning of asymptotic sizes using base=base. 
   The lowest bin contains indviduals with asymptotic size in the range
-  \{min_size/base;min_size/base\}
+  \{ base^(floor(log(min_size,base=base))-1) ; base^(floor(log(min_size,base=base))) \}
 }
 \examples{
 ....
