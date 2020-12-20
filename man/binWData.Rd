@@ -13,7 +13,9 @@ binWData(data, base = 4, min_size = 0.1)
 dataframe
 }
 \description{
-.....
+  Logarithmic binning of asymptotic sizes using base=base. 
+  The lowest bin contains indviduals with asymptotic size in the range
+  \{min_size/base;min_size/base\}
 }
 \examples{
 ....
